@@ -1,2 +1,2 @@
 # MC-Lect-07-Counter-App
-counter with increment, decrement and reset , android studio
+counter with increment, decrement, reset , android studio
